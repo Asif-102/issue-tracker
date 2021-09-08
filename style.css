@@ -1,0 +1,14 @@
+#myHeader{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.description{
+    text-align: center;
+     background-color: coral;
+    border-radius:40px;
+    padding: 10px;
+  display:none;
+
+ }
